@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5477D2F248F2FA00095263E /* Facility.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5477D2E248F2FA00095263E /* Facility.swift */; };
 		A5B71317248892B3004DFEBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B71316248892B3004DFEBB /* AppDelegate.swift */; };
 		A5B71319248892B3004DFEBB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B71318248892B3004DFEBB /* SceneDelegate.swift */; };
 		A5B7131B248892B3004DFEBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B7131A248892B3004DFEBB /* ContentView.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5477D2E248F2FA00095263E /* Facility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facility.swift; sourceTree = "<group>"; };
 		A5B71313248892B3004DFEBB /* SnowSeeker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnowSeeker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5B71316248892B3004DFEBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5B71318248892B3004DFEBB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				A5B713302489D5DE004DFEBB /* WelcomeView.swift */,
 				A5B7132C2489D12D004DFEBB /* Resort.swift */,
 				A5B713322489D70D004DFEBB /* ResortView.swift */,
+				A5477D2E248F2FA00095263E /* Facility.swift */,
 				A5B7132E2489D204004DFEBB /* Bundle-Decodable.swift */,
 				A5B7132A2489D0D2004DFEBB /* resorts.json */,
 				A5B7131C248892B4004DFEBB /* Assets.xcassets */,
@@ -170,6 +173,7 @@
 			files = (
 				A5B71317248892B3004DFEBB /* AppDelegate.swift in Sources */,
 				A5B713312489D5DE004DFEBB /* WelcomeView.swift in Sources */,
+				A5477D2F248F2FA00095263E /* Facility.swift in Sources */,
 				A5B71319248892B3004DFEBB /* SceneDelegate.swift in Sources */,
 				A5B713332489D70D004DFEBB /* ResortView.swift in Sources */,
 				A5B7132F2489D204004DFEBB /* Bundle-Decodable.swift in Sources */,
