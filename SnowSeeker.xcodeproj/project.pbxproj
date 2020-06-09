@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A5477D2F248F2FA00095263E /* Facility.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5477D2E248F2FA00095263E /* Facility.swift */; };
+		A5477D31248F34C10095263E /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5477D30248F34C10095263E /* Favorites.swift */; };
 		A5B71317248892B3004DFEBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B71316248892B3004DFEBB /* AppDelegate.swift */; };
 		A5B71319248892B3004DFEBB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B71318248892B3004DFEBB /* SceneDelegate.swift */; };
 		A5B7131B248892B3004DFEBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B7131A248892B3004DFEBB /* ContentView.swift */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		A5477D2E248F2FA00095263E /* Facility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facility.swift; sourceTree = "<group>"; };
+		A5477D30248F34C10095263E /* Favorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
 		A5B71313248892B3004DFEBB /* SnowSeeker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnowSeeker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5B71316248892B3004DFEBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5B71318248892B3004DFEBB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				A5B7131A248892B3004DFEBB /* ContentView.swift */,
 				A5B713342489D8E7004DFEBB /* SkiDetailsView.swift */,
 				A5B713362489D988004DFEBB /* ResortDetailsView.swift */,
+				A5477D30248F34C10095263E /* Favorites.swift */,
 				A5B713302489D5DE004DFEBB /* WelcomeView.swift */,
 				A5B7132C2489D12D004DFEBB /* Resort.swift */,
 				A5B713322489D70D004DFEBB /* ResortView.swift */,
@@ -176,6 +179,7 @@
 				A5477D2F248F2FA00095263E /* Facility.swift in Sources */,
 				A5B71319248892B3004DFEBB /* SceneDelegate.swift in Sources */,
 				A5B713332489D70D004DFEBB /* ResortView.swift in Sources */,
+				A5477D31248F34C10095263E /* Favorites.swift in Sources */,
 				A5B7132F2489D204004DFEBB /* Bundle-Decodable.swift in Sources */,
 				A5B7132D2489D12D004DFEBB /* Resort.swift in Sources */,
 				A5B713372489D988004DFEBB /* ResortDetailsView.swift in Sources */,
